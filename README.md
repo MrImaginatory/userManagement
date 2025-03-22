@@ -9,8 +9,6 @@ A robust and user-friendly **User Management** system for handling user registra
 - Secure Password Hashing (bcrypt)
 - JWT Token-based Authentication
 - Profile Management
-- Email verification system (Optional)
-- Admin Dashboard for User Management
 
 ## 📜 Table of Contents
 
