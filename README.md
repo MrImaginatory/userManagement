@@ -111,7 +111,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For more information, contact us at: [email@example.com](mailto:email@example.com)
+For more information, contact us at: [illusionary@duck.com](mailto:illusionary@duck.com)
 
 ## 🙏 Acknowledgments
 
